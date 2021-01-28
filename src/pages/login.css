@@ -1,0 +1,12 @@
+.f-c-t {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    min-height: 100vh;
+}
+
+.w-sm-l {
+    width: 100%;
+    max-width: 385px;
+}
